@@ -56,3 +56,15 @@
 - 스토리라인: 메시지 전달
   - 반려견을 키우거나 유기견 입양에 관심 있는 시민에게 유기견을 보고 가족이 되는 순간과 따뜻함을 전달
 - 브랜드 인지 장치: 슬로건 - 무시하지 말고, 입양하세요!
+
+<br></br>
+<br></br>
+
+### 6. 보너스 과제 ###
+**[보너스 1] 립싱크(Lip-sync) 적용**
+- Scene 3 적용
+- 씬 길이: 그대로 8초
+- 기존 내레이션 "필요했던 건 특별한 사람이 아니라 ... 함께해 줄 가족이었습니다." 삭제
+- 장면 앞부분 남자 립싱크 "우리 집으로 갈까?" 추가
+- 결과 파일명) scene3_keyvisual.png / scene3_image.jpeg / scene3_motion_lipsync.mp4 / scene3_lipsync.wav / bgm.mp3
+- 최종 광고 영상 파일명) EndOfWait_AdoptionOfAbandonedDog_video_lipsync.mp4
