@@ -66,5 +66,6 @@
 - 씬 길이: 그대로 8초
 - 기존 내레이션 "필요했던 건 특별한 사람이 아니라 ... 함께해 줄 가족이었습니다." 삭제
 - 장면 앞부분 남자 립싱크 "우리 집으로 갈까?" 추가
+- Capcut (립싱크 생성 도구): 오디오를 분석해 그에 맞게 인물의 입모양과 대사를 자연스럽게 맞춰주고, 편집 과정이 복잡하지 않고 마우스로만 끝낼 수 있어 선정
 - 결과 파일명) scene3_keyvisual.png / scene3_image.jpeg / scene3_motion_lipsync.mp4 / scene3_lipsync.wav / bgm.mp3
 - 최종 광고 영상 파일명) EndOfWait_AdoptionOfAbandonedDog_video_lipsync.mp4
